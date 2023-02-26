@@ -16,6 +16,12 @@
 			]
 		}
 	},
+	"features": {
+		"ghcr.io/devcontainers/features/docker-in-docker:1.0.8": {
+        "version": "latest",
+        "moby": true
+      }
+	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
