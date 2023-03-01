@@ -1,6 +1,6 @@
 This is an example C++ project used in Codeanywhere.
 
-[Try it out](https://app.codeanywhere.com/workspace/create#https://github.com/Codeanywhere-Templates/cpp)
+[Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/cpp)
 
 ### Running the project
 
